@@ -4,6 +4,6 @@
 	<title>index</title>
 </head>
 <body>
-dsfg
+	<?php echo "string"; ?>
 </body>
 </html>
